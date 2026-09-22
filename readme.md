@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Olivia and I'm a web developer student, from south of France</h2>
+<h2 align="center">Hi 👋! My name is Olivia and I'm a web developer junior, from south of France</h2>
 
 ###
 
